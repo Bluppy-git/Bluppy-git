@@ -24,9 +24,9 @@
 ![Bluppy](https://github-readme-stats.vercel.app/api?username=Bluppy-git&count_private=true&hide_border=true&show_icons=true&include_all_commits=true)
 ![Bluppy](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluppy-git&layout=compact&hide_border=true)
 
-Contact for Questions: <a href="https://discord.gg/ud8McRQMbV" target="_blank"><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>  
 
                                                   Check out my work below!
+Contact for Questions: <a href="https://discord.gg/ud8McRQMbV" target="_blank"><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>
 
 <!--
 UNSICHTBAR!!!
