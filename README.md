@@ -1,4 +1,4 @@
-## Programms, Tools & Accounts
+## Languages, Tools & Accounts
 [<img align="left" alt="Pycharm" width="22px" src="https://simpleicons.org/icons/pycharm.svg" />][pycharm]
 [<img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg" />][python]
 [<img align="left" alt="IntelliJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" />][IntelliJ]
