@@ -4,7 +4,8 @@
 [<img align="left" alt="IntelliJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" />][IntelliJ]
 [<img align="left" alt="IntelliJ" width="22px" src="https://simpleicons.org/icons/eclipseide.svg" />][Eclipse]
 [<img align="left" alt="Java" width="22px" src="https://simpleicons.org/icons/java.svg" />][Java]
-<img align="left" alt="Notepad++" width="22px" src="https://simpleicons.org/icons/notepadplusplus.svg" />
+[<img align="left" alt="visualstudiocode" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][visualstudiocode]
+[<img align="left" alt="Notepad++" width="22px" src="https://simpleicons.org/icons/notepadplusplus.svg" />][Notepad++]
 [<img align="left" alt="Raspberry Pi" width="22px" src="https://simpleicons.org/icons/raspberrypi.svg" />][Raspberrypi]
 [<img align="left" alt="Arduino" width="22px" src="https://simpleicons.org/icons/arduino.svg" />][Arduino]
 [<img align="left" alt="Git" width="22px" src="https://simpleicons.org/icons/git.svg" />][Git]
@@ -16,6 +17,8 @@
 [IntelliJ]: https://www.jetbrains.com/idea/
 [Eclipse]: https://www.eclipse.org/
 [Java]: https://www.oracle.com/java/technologies/javase-downloads.html
+[visualstudiocode]: https://code.visualstudio.com/
+[Notepad++]: https://notepad-plus-plus.org/downloads/
 [Raspberrypi]: https://www.raspberrypi.org/
 [Arduino]: https://www.arduino.cc/
 [Git]: https://git-scm.com/
