@@ -31,6 +31,9 @@
                                                   Check out my work below!
 Contact for Questions: <a href="https://discord.gg/ud8McRQMbV" target="_blank"><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>
 
+Invite my Discord Bot: https://discord.com/oauth2/authorize?client_id=810582544541810694&scope=bot&permissions=8
+more Inforamtion about the Bot: https://github.com/Bluppy-git/Discord-Bots/tree/main/temp%20Voice%20Channel
+
 <!--
 UNSICHTBAR!!!
 
