@@ -8,6 +8,7 @@
 [<img align="left" alt="Notepad++" width="22px" src="https://simpleicons.org/icons/notepadplusplus.svg" />][Notepad++]
 [<img align="left" alt="Raspberry Pi" width="22px" src="https://simpleicons.org/icons/raspberrypi.svg" />][Raspberrypi]
 [<img align="left" alt="Arduino" width="22px" src="https://simpleicons.org/icons/arduino.svg" />][Arduino]
+[<img align="left" alt="Arduino" width="22px" src="https://simpleicons.org/icons/arduino.svg" />][MySQL]
 [<img align="left" alt="Git" width="22px" src="https://simpleicons.org/icons/git.svg" />][Git]
 <a href="https://github.com/Bluppy-git" target="_blank"><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></a>
 <a href="https://discord.gg/ud8McRQMbV" target="_blank"><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>  
@@ -21,6 +22,7 @@
 [Notepad++]: https://notepad-plus-plus.org/downloads/
 [Raspberrypi]: https://www.raspberrypi.org/
 [Arduino]: https://www.arduino.cc/
+[MySQL]: https://www.mysql.com/de/
 [Git]: https://git-scm.com/
 
 ## Github Stats:
